@@ -1,0 +1,8 @@
+export { default as CreateProjectModal } from './createProjectModal/CreateProjectModal'
+export { default as ViewProjectModal } from './viewProjectModal/ViewProjectModal'
+export { default as DeleteProjectModal } from './deleteProjectModal/DeleteProjectModal'
+export { default as EditProjectModal } from './editProjectModal/EditProjectModal'
+export { default as CommentsModal } from './commentsModal/CommentsModal'
+export { default as SendProjectModal } from './sendProjectModal/SendProjectModal'
+export { default as EvaluateProjectModal } from './evaluateProjectModal/EvaluateProjectModal'
+export { default as FilterProjectsModal } from './filterProjectsModal/FilterProjectsModal'
